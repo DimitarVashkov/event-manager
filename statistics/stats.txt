@@ -1,0 +1,21 @@
+Peak hours are around: 13
+Peak day is: Tuesday
+Phone book with associated names:
+Allison : 615-438-5000
+SArah : 414-520-5000
+Sarah : 941-979-2000
+David : 650-799-0000
+Chris : 613-565-4000
+Aya : 778-232-7000
+Mary Kate : 202-328-1000
+Audrey : 530-919-3000
+Shiyu : 808-497-4000
+Eli : 858-405-3000
+Colin : 401-868-5000
+Megan : 315-450-6000
+Meggie : 510-282-4000
+Laura : 787-295-0000
+Paul : 000-000-0000
+Shannon : 530-355-7000
+Nash : 206-226-3000
+Amanda : 607-280-2000
